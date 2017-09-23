@@ -18,7 +18,7 @@ Here are reasons why you should use multicultural names in your designs:
 - Male
 - Trans and Non-Binary (Coming Soon)
 
-**Cultural names represented:**
+## Names from these cultures are represented:
 - African
 - American
 - Arabic
