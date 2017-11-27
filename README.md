@@ -1,3 +1,5 @@
+<img src="https://github.com/rizwanjavaid/invision-craft-multicultural-names/blob/master/Multicultural%20Name%20-%20InVision%20-%20Craft.png?raw=true" alt="Multicultural Names Banner"/>
+
 # Multicultural Names For inVision's Craft Plugin
 
 This project was born out of the need to help designers and developers use a diverse range of names in their workflows. The users we design for aren't only named Tiffany, Lisa, Joe, John. They are also named Shamika, Le, Mohammed, Lakshmikantan, Yiğit. 
