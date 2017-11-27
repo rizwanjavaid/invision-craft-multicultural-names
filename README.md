@@ -39,6 +39,11 @@ Here are reasons why you should use multicultural names in your designs:
 - Turkish
 - Vietnamese
 
+
+## How to add these lists to the Craft Plugin in Sketch
+[![How to add the Multicultural Lists to Sketch](https://user-images.githubusercontent.com/2731834/33294270-bac4bbb0-d384-11e7-9c01-b2dacdf861c7.png)](https://www.youtube.com/watch?v=KmlDla6grIk)
+
+
 ## We need your help
 Please help make these lists more inclusive by submitting names you believe should be in here. I am also looking for help with Trans and Non-Binary names. 
 
