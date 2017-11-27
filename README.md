@@ -47,7 +47,7 @@ Here are reasons why you should use multicultural names in your designs:
 ## We need your help
 Please help make these lists more inclusive by submitting names you believe should be in here. I am also looking for help with Trans and Non-Binary names. 
 
-**Have questions?** You can find me on Twitter: @rizwanjavaid
+**Have questions?** You can find me on Twitter: [@rizwanjavaid](https://www.twitter.com/rizwanjavaid)
 
 Thanks!
 
