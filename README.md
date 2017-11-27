@@ -1,4 +1,4 @@
-<img src="https://github.com/rizwanjavaid/invision-craft-multicultural-names/blob/master/Multicultural%20Name%20-%20InVision%20-%20Craft.png?raw=true" alt="Multicultural Names Banner"/>
+<img src="https://user-images.githubusercontent.com/2731834/33293120-865f8b38-d380-11e7-97f8-6da6e04a4158.png" alt="Multicultural Names Banner"/>
 
 # Multicultural Names For inVision's Craft Plugin
 
