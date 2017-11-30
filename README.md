@@ -40,7 +40,12 @@ Here are reasons why you should use multicultural names in your designs:
 - Vietnamese
 
 
-## How to add these lists to the Craft Plugin in Sketch
+## Installation
+- Install and activate the Craft Plugin for Sketch by Invision.
+- Open the Craft Data Panel and a custom data type.
+- Copy and paste the data lists from the repository.
+- Now you’re ready to use more inclusive names in your mockups enjoy! 🙌
+
 [![How to add the Multicultural Lists to Sketch](https://user-images.githubusercontent.com/2731834/33294270-bac4bbb0-d384-11e7-9c01-b2dacdf861c7.png)](https://www.youtube.com/watch?v=KmlDla6grIk)
 
 
